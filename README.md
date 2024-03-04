@@ -19,12 +19,12 @@ The ultimate goal is to classify potential customers then reach the classified c
 ----------------------------------------------------------------------------------------------------------
 ### What can you find in this project?
 
-Data cleaning, visualizations, classification model building process (Random Forest has the best performance), as well as the deployment folder to make the web app.
+Data cleaning, visualizations, classification model building process, as well as the deployment folder to make the web app.
 
 ### Some notes about the model
 
-- Among all the classification algorithms used, random forest model has the best performance.
-- Recall: 77%.
+- Among all the classification algorithms used, the random forest model has the best performance.
+- Evaluation Metrics => Recall: 77%.
 
 ----------------------------------------------------------------------------------------------------------
 Please do let me know if you have feedbacks or improvements for this project by reaching through catherinehelenna888@gmail.com
